@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="C:\Users\GWC\AppData\Local\atom\camostyle.css" rel="stylesheet">
+  <center><img src="camologo.jpg" style="width:10%"></center></img>
+</head>
+<body>
+
+<div class="navbar">
+  <div class="missionbutton">
+    <a href="mission.html">Mission</a>
+  </div>
+    <div class="dropdown">
+      <button class="dropbtn" style="float:center">Tips & Info
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="tipsinfo.html">Trading</a>
+        <a href="blockchain.html">Blockchain</a>
+        <a href="currencies.html">Currencies</a>
+        <a href="faq.html">FAQ</a>
+      </div>
+    </div>
+    <div class="aboutusbutton">
+    <a href="aboutus.html">About Us</a>
+    </div>
+  </div>
+
+
+  <center><div class="missiontext">
+    <center><p><font size="+2"><i>Ohana</i> means family</font> <p></center>
+    <p>Here at CAMOCOIN we treat everyone as family meaning that everyone . That's why  our mission is to educate our generation on the growing cryptocurrency market in order to create active and informed citizins.Economics is not something typically taught to high school students yet is something that we should all be aware about as we are about to start transitioning into the adult world.</p></center>
+
+<img src="water2.jpg">
+</body>
+</html>

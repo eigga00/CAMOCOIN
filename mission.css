@@ -1,0 +1,13 @@
+.mission-text{
+  width: 600px;
+  border: 15px;
+  padding: 5px;
+  margin: 20px;
+  text-align: left;
+  align: center;
+  position: relative;
+  background-color: white;
+  top: 130px;
+  font-family: georgia;
+  border-radius: 25px;
+}

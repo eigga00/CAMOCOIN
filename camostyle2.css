@@ -1,7 +1,7 @@
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-image: url("water2.jpg");
+  font-family: georgia;
+
 }
 
 button{
@@ -89,19 +89,21 @@ button{
 
 }
 
-.missiontext {
+.mission-text {
   width: 600px;
   border: 15px;
   padding: 5px;
   margin: 20px;
   text-align: left;
   align: center;
-  float: relative;
-  background-color: pink;
+
 }
 
 .belownav{
-  background-image: url(water2.jpg);
+  background-image: url("aloha4.jpg");
+  background-size: cover;
+  padding-bottom: 230px;
+
 }
 
 .aboutustext {
@@ -111,45 +113,120 @@ button{
   margin: 20px;
   text-align: left;
   align: center;
+  font-family: georgia;
+
+}
+
+.aggie{
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
+  padding: 5px;
+}
+
+.ella{
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
+  padding: 5px;
+  position: relative;
+  top: 20px;
+}
+
+.nechama{
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
+  padding: 5px;
+  position: relative;
+  top: 40px;
+}
+
+.olivia{
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
+  padding: 5px;
+  position: relative;
+  top: 60px;
+}
+.belownav6{
+background-image: url("water12.jpg");
 }
 
 .tipsinfotext{
   width: 910px;
-  border: 200px;
+  border: 200px red;
   padding: 5px;
   margin: 20px;
   text-align: left;
   align: center;
+
+
 }
 
+.belowtipsinfo{
+  background-image: url(water12.jpg);
+}
+
+.undernav4{
+  background-image: url("water12.jpg");
+
+}
 .coinss{
   float: right;
   width: 50%;
   display: inline;
   margin-top: 100px;
+
 }
 
+.coinback{
+  ;
+  background-size: cover;
+}
 .livestats {
   float: left;
-  width: 24;
+  width: 20;
   display: inline;
+
 }
 
+.bitcoin{
+  background-color: white;
+  background-size: 200% 100;
+  border-radius: 25px;
+  position: relative;
+}
 .ether{
   position: relative;
   top:82px;
+  background-color: white;
+  border-radius: 25px;
+  position: relative;
+
 }
 
 .ripple{
   position: relative;
-  top:110px;
+  top:280px;
+  background-color: white;
+  border-radius: 25px;
+  position: relative;
 }
 
 .cardano{
   position: relative;
-  top:130px;
+  top:450px;
+  background-color: white;
+  border-radius: 25px;
+  position: relative;
 }
 
+.blockchainhead{
+  position: relative;
+  top: 10px;
+}
 .blockchaininfop1{
   width: 600px;
   border: 15px;
@@ -159,6 +236,9 @@ button{
   align: center;
   float: center;
   text-indent: 50px;
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
 }
 
 .blockchaininfop2{
@@ -170,6 +250,9 @@ button{
   align: center;
   float: center;
   text-indent: 50px;
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
 }
 
 .blockchaininfop3{
@@ -181,6 +264,9 @@ button{
   align: center;
   float: center;
   text-indent: 50px;
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
 }
 
 .blockchaininfop4{
@@ -192,4 +278,207 @@ button{
   align: center;
   float: center;
   text-indent: 50px;
+  background-color: white;
+  border-radius: 25px;
+  font-family: georgia;
+}
+p{
+
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.buyingcrypto{
+  width: 600px;
+  border: 15px;
+  padding: 5px;
+  margin: 20px;
+  text-align: left;
+  align: center;
+  font-family: georgia;
+
+
+}
+
+.undernav2{
+  background-image: url("water9.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.step1{
+  background-color: white;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.step2{
+  background-color: white;
+  border-radius: 25px;
+  padding: 10px;
+  position: relative;
+  top: 25px;
+}
+
+.step3{
+  background-color: white;
+  border-radius: 25px;
+  padding: 20px;
+  position: relative;
+  top:50px;
+}
+
+.undernav3{
+  background-image: url("water10.jpg");
+}
+
+.undernav6{
+  background-image: url("water12.jpg");
+  background-size: cover;
+}
+
+.faqback{
+  background-image: url("water18.jpg");
+  min-height: 100%;
+  min-width: 100%;
+
+  background-size: cover;
+
+
+}
+
+.faqtext{
+  width: 750px;
+  border: 15px;
+  padding: 5px;
+  margin: 20px;
+  text-align: left;
+  align: center;
+}
+
+.faqbox{
+  background-color: white;
+  border-radius: 25px;
+}
+
+.defbox{
+  background-color: white;
+  border-radius: 25px;
+}
+
+.box1{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+.box2{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:20px;
+}
+
+.box3{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:40px;
+}
+
+.box4{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:60px;
+}
+
+.box5{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:100px;
+}
+
+.box6{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:120px;
+}
+
+.box7{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:140px;
+}
+
+.box8{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:160px;
+}
+
+.box9{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:180px;
+}
+
+.box10{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:200px;
+}
+
+.box11{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:220px;
+}
+
+.box12{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:240px;
+}
+
+.box13{
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px;
+  position: relative;
+  top:260px;
+}
+
+.def{
+  position: relative;
+  top:80px;
+}
+
+footer{
+  position: relative;
+  top: 1200px;
+
 }
